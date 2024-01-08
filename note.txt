@@ -1,8 +1,0 @@
-https://www.youtube.com/watch?v=wNYxw4j90RI
-https://www.kaggle.com/code/nulldata/few-shot-text-classification-with-setfit
-Few-Shot Text Classification Tutorial with SetFit | Few-Shot Learning in NLP
-could be useful in img processing project automl app
-
-https://huggingface.co/blog/setfit
-https://www.youtube.com/watch?v=8h27lV8v8BU
-https://github.com/huggingface/setfit
